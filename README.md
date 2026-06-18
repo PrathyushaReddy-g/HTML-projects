@@ -80,7 +80,7 @@ HTML-projects/
 ├── index.html
 ├── README.md
   
-url of project:https://github.com/PrathyushaReddy-g/HTML-projects
+
 
 ## 🌱 Future Improvements
 
@@ -99,6 +99,8 @@ Computer Science Engineering (AI & ML) Student
 Aarupadai Veedu Institute of Technology (AVIT)
 
 GitHub: https://github.com/PrathyushaReddy-g
+
+url of project:https://github.com/PrathyushaReddy-g/HTML-projects
 
 ---
 
