@@ -79,6 +79,7 @@ HTML-projects/
 │
 ├── index.html
 ├── README.md
+  
 url of project:https://github.com/PrathyushaReddy-g/HTML-projects
 
 ## 🌱 Future Improvements
