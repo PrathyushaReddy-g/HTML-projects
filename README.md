@@ -100,7 +100,8 @@ Aarupadai Veedu Institute of Technology (AVIT)
 
 GitHub: https://github.com/PrathyushaReddy-g
 
-url of project:[https://github.com/PrathyushaReddy-g/HTML-projects](https://github.com/PrathyushaReddy-g/HTML-projects)
+Project URL:
+https://prathyushareddy-g.github.io/HTML-projects/
 
 ---
 
